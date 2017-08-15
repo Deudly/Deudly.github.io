@@ -1,37 +1,18 @@
-## Just a demo page
+## Hey, I am Deudly
+I am Deudly, a developer. I think I know Javascript and NodeJS but nobody believes that. I used to code Minecraft plugins in Java but I grew up and I left the Minecraft community because I didn't enjoy playing that game anymore. Currently, the programming languages I use are Javascript with NodeJS and C#
 
-You can use the [editor on GitHub](https://github.com/Deudly/deudly.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Feel free to visit my [profile in GitHub](https://github.com/Deudly) or continue reading this website to know more about me and my projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Public Personal Projects
 
-### Markdown
+I've published some of my own projects in Github. These are:
+[Glowstone](https://github.com/GlowstoneHosting/Glowstone): This is the best open-source project I created. It's a Minecraft server hosting panel, a website for Minecraft hosting companies.
+[Flying Squid Essentials](https://github.com/Deudly/Flying-Squid-Essentials): Flying Squid is a Minecraft server written in Javascript. Currently the server is in a very early development phase and its usage is not recommended. So, Flying Squid Essentials is the Essentials plugin for this server :D
+[SandboxTool](https://github.com/Deudly/SandboxTool): An app to download and update a compiled version of LeagueSandbox's GameServer. Running in NodeJS
+[BaronPowerPlay](https://github.com/Deudly/BaronPowerPlay): A simple Baron Powerplay calculator website. It's hosted in Github Pages so you don't even need to download it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My contributions to other projects
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Deudly/deudly.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[LeagueSandbox's LobbyServer](https://github.com/LeagueSandbox/LobbyServer): I contributed a lot to this project, in fact I'm the person with more commits in this project. 
+[LeagueSandbox's LobbyClient](https://github.com/LeagueSandbox/LobbyClient): The client for the LobbyServer. I'm one of the persons who most contributed to this project.
+[LeagueSandbox's GameServer](https://github.com/LeagueSandbox/GameServer) and [LeagueSandbox's LeagueDefault](https://github.com/LeagueSandbox/LeagueSandbox-Default): I coded some spells for this sandbox but my contributions to this project are little.
