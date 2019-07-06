@@ -1,24 +1,25 @@
-## Hey, I am Deudly
-I am Deudly, a developer. I think I know Javascript and NodeJS but nobody believes that. I used to code Minecraft plugins in Java but I grew up and I left the Minecraft community because I didn't enjoy playing that game anymore. Currently, the programming languages I use are Javascript with NodeJS and C#
+Lang: English | [Español](Deudly.github.io/index-es.html)
+
+# Welcome to my portfolio
+I am Deudly, a studient and future software engineer based in Spain. I am experienced with Javascript and NodeJS, Java and C# and I worked in several projects, some of them open-source.
 
 Feel free to visit my [profile in GitHub](https://github.com/Deudly) or continue reading this website to know more about me and my projects.
 
-## Public Personal Projects
+## My experience programming
 
-I've published some of my own projects in Github. These are:
+Since the very first moment I started programming until today, I've been gaining experience, as I've been working on lots of projects with many people from all over the world. My biggest projects are private and most of them are coded using NodeJS, because of its easiness.
 
-[Glowstone](https://github.com/GlowstoneHosting/Glowstone): This is the best open-source project I created. It's a Minecraft server hosting panel, a website for Minecraft hosting companies.
+I've developed from web applications, such as competition-managment sites, to 2D multiplayer realtime videogames. Even some smartphone apps and computer programs. But, because of their nature, I cannot show them here. Though, if you want further information about my experience and those projects, you can contact me through my email.
 
-[Flying Squid Essentials](https://github.com/Deudly/Flying-Squid-Essentials): Flying Squid is a Minecraft server written in Javascript. Currently the server is in a very early development phase and its usage is not recommended. So, Flying Squid Essentials is the Essentials plugin for this server :D
+### Some open-source projects I published
 
-[SandboxTool](https://github.com/Deudly/SandboxTool): An app to download and update a compiled version of LeagueSandbox's GameServer. Running in NodeJS
+Unlike the other projects, these are some that I can show because they are open-source. I will feature only two but there are a couple more on my Github profile.
 
-[BaronPowerPlay](https://github.com/Deudly/BaronPowerPlay): A simple Baron Powerplay calculator website. It's hosted in Github Pages so you don't even need to download it.
+[Glowstone](https://github.com/GlowstoneHosting/Glowstone): When it comes to free server hosting panels, there aren't a lot of possible choices. In addition, if you look for Minecraft specific solutions, it gets much more difficult to find one. Glowy is my own alternative for that, open-source, user friendly and easy to setup were the goals.
 
-## My contributions to other projects
+[Client](https://github.com/Deudly/Client) and [ClientServer](https://github.com/Deudly/ClientServer): While it is now archived, it was a really useful client and server application that worked as an interface to let users interact with the server and execute online multiplayer League of Legends games, using a public project named [League Sandbox's Gameserver](https://github.com/LeagueSandbox/GameServer). The project required to work with Electron and other Javascript frameworks, as well as working with Linux to setup servers.
 
-[LeagueSandbox's LobbyServer](https://github.com/LeagueSandbox/LobbyServer): I contributed a lot to this project, in fact I'm the person with more commits in this project. 
+## Get in touch with me
 
-[LeagueSandbox's LobbyClient](https://github.com/LeagueSandbox/LobbyClient): The client for the LobbyServer. I'm one of the persons who most contributed to this project.
-
-[LeagueSandbox's GameServer](https://github.com/LeagueSandbox/GameServer) and [LeagueSandbox's LeagueDefault](https://github.com/LeagueSandbox/LeagueSandbox-Default): I coded some spells for this sandbox but my contributions to this project are little.
+I am open to any kind of offers, but I am mostly looking for projects where I can continue growing and developing my skills.
+- Email: deudevelop@gmail.com
